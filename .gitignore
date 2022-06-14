@@ -2,3 +2,8 @@
 *.log
 *.raw
 *.plt
+easyeda/
+log/
+out/
+History/
+__Previews/
