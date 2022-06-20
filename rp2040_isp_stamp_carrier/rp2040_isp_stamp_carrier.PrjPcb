@@ -116,6 +116,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BELBBDSX
 
+[GeneratedDocument1]
+DocumentPath=out\Design Rule Check - pcb.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
