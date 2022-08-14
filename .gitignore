@@ -2,6 +2,7 @@
 *.log
 *.raw
 *.plt
+*.zip
 easyeda/
 log/
 out/

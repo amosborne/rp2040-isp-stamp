@@ -1,0 +1,10 @@
+Output: Bill of Materials CSV
+Type  : BOM
+From  : Variant [[No Variations]] of Project [rp2040_isp_stamp.PrjPcb]
+   Generated File[Bill of Materials CSV-rp2040_isp_stamp.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:44:30 PM On 8/13/2022
