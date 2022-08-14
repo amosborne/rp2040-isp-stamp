@@ -2,22 +2,17 @@
 FileName = pcb_v2.GBR
 AutoAperture = True
 *************************************************************
-Generating : Layer 1
-      File : pcb_v2.G1
+Generating : Bottom Paste
+      File : pcb_v2.GBP
 
-    Adding Layer      : Layer 1
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D63
-    D65
-    D68
-    D69
-    D70
-    D71
-    D72
 *************************************************************
 
 *************************************************************
@@ -32,7 +27,6 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D12
     D13
     D14
     D15
@@ -55,24 +49,7 @@ Used DCodes :
     D32
     D33
     D34
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : pcb_v2.G2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D65
-    D68
-    D69
-    D70
-    D71
-    D72
+    D35
 *************************************************************
 
 *************************************************************
@@ -87,9 +64,129 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : pcb_v2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
     D59
     D60
     D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : pcb_v2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : pcb_v2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : pcb_v2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : pcb_v2.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D64
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : pcb_v2.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D64
+    D68
+    D69
+    D70
+    D71
+    D72
 *************************************************************
 
 *************************************************************
@@ -127,7 +224,7 @@ Used DCodes :
     D32
     D33
     D34
-    D62
+    D35
     D63
     D64
     D65
@@ -138,102 +235,6 @@ Used DCodes :
     D70
     D71
     D72
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : pcb_v2.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : pcb_v2.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D63
-    D68
-    D69
-    D70
-    D71
-    D72
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : pcb_v2.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : pcb_v2.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : pcb_v2.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
 *************************************************************
 
 *************************************************************

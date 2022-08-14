@@ -4,9 +4,9 @@ C:\Users\osbor\Desktop\rp2040-isp-stamp\rp2040_isp_stamp\assy\Pick Place for pcb
 ========================================================================================================================
 File Design Information:
 
-Date:       13/08/22
-Time:       19:44
-Revision:   Not in VersionControl
+Date:       14/08/22
+Time:       14:58
+Revision:   fa947922aba8fad56077834b1f268960f0f615ae
 Variant:    No variations
 Units used: mm
 
@@ -46,8 +46,8 @@ Units used: mm
 "R3","9.0170mm","19.3040mm","TopLayer","90","27O","R0603","1/10W Thick Film Resistors 75V ±1% ±200ppm/? -55?~+155? 27O 0603  Chip Resistor - Surface Mount ROHS"
 "R4","10.1600mm","19.3040mm","TopLayer","90","27O","R0603","1/10W Thick Film Resistors 75V ±1% ±200ppm/? -55?~+155? 27O 0603  Chip Resistor - Surface Mount ROHS"
 "R5","5.3340mm","21.7170mm","TopLayer","90","10kO","R0402","1/16W Thick Film Resistors 50V ±1% ±100ppm/? -55?~+155? 10kO 0402  Chip Resistor - Surface Mount ROHS"
-"R6","4.6990mm","6.7310mm","TopLayer","0","0O","R0805","125mW Thick Film Resistors 150V ±1% ±800ppm/? -55?~+155? 0mO 0805  Chip Resistor - Surface Mount ROHS"
-"R7","1.7780mm","6.7310mm","TopLayer","270","100O","R0402","1/16W Thick Film Resistors 50V ±1% ±200ppm/? -55?~+155? 100O 0402  Chip Resistor - Surface Mount ROHS"
+"R6","3.5560mm","6.6040mm","TopLayer","0","0O","R0805","125mW Thick Film Resistors 150V ±1% ±800ppm/? -55?~+155? 0mO 0805  Chip Resistor - Surface Mount ROHS"
+"R7","6.0960mm","6.7310mm","TopLayer","270","100O","R0402","1/16W Thick Film Resistors 50V ±1% ±200ppm/? -55?~+155? 100O 0402  Chip Resistor - Surface Mount ROHS"
 "R8","20.1930mm","10.6680mm","TopLayer","315","100O","R0402","1/16W Thick Film Resistors 50V ±1% ±200ppm/? -55?~+155? 100O 0402  Chip Resistor - Surface Mount ROHS"
 "R9","19.5580mm","10.0330mm","TopLayer","315","100O","R0402","1/16W Thick Film Resistors 50V ±1% ±200ppm/? -55?~+155? 100O 0402  Chip Resistor - Surface Mount ROHS"
 "R10","16.2560mm","8.3820mm","TopLayer","45","1kO","R0402","1/16W Thick Film Resistors 50V ±1% ±100ppm/? -55?~+155? 1kO 0402  Chip Resistor - Surface Mount ROHS"
