@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=jobs.OutJob
+Name=
 Description=
 TargetOutputMedium=SCH+BOM
 VariantName=[No Variations]
@@ -136,7 +136,7 @@ Configuration6_Name6=VisibleOrder_Flat
 Configuration6_Item6=Designator=120|BOM_JLCPCB Part Class=100|BOM_Supplier Part=100|BOM_Manufacturer Part=168|Description=177|Quantity=74
 
 [PublishSettings]
-OutputFilePath2=C:\Users\osbor\Desktop\rp2040-isp-stamp\rp2040_isp_stamp\doc\jobs.PDF
+OutputFilePath2=C:\Users\osbor\Desktop\rp2040-isp-stamp\rp2040_isp_stamp\doc\schematic_and_bom.PDF
 ReleaseManaged2=0
 OutputBasePath2=doc\
 OutputPathMedia2=
@@ -148,8 +148,8 @@ OutputFileName2=schematic_and_bom.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
-OpenOutput2=1
-PromptOverwrite2=1
+OpenOutput2=0
+PromptOverwrite2=0
 PublishMethod2=0
 ZoomLevel2=50
 FitSCHPrintSizeToDoc2=1
@@ -175,7 +175,7 @@ OutputFileName3=
 OutputFileNameMulti3=
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
-OpenOutput3=1
+OpenOutput3=0
 OutputFilePath4=C:\Users\osbor\Desktop\rp2040-isp-stamp\rp2040_isp_stamp\assy\
 ReleaseManaged4=0
 OutputBasePath4=assy\
@@ -188,13 +188,13 @@ OutputFileName4=
 OutputFileNameMulti4=
 UseOutputNameForMulti4=1
 OutputFileNameSpecial4=
-OpenOutput4=1
+OpenOutput4=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\osbor\Desktop\rp2040-isp-stamp\rp2040_isp_stamp\doc\jobs.PDF
-OpenOutputs2=1
+RelativeOutputPath2=C:\Users\osbor\Desktop\rp2040-isp-stamp\rp2040_isp_stamp\doc\schematic_and_bom.PDF
+OpenOutputs2=0
 RelativeOutputPath3=C:\Users\osbor\Desktop\rp2040-isp-stamp\rp2040_isp_stamp\fab\
-OpenOutputs3=1
+OpenOutputs3=0
 AddToProject3=1
 TimestampFolder3=0
 UseOutputName3=0
@@ -204,7 +204,7 @@ OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
 RelativeOutputPath4=C:\Users\osbor\Desktop\rp2040-isp-stamp\rp2040_isp_stamp\assy\
-OpenOutputs4=1
+OpenOutputs4=0
 AddToProject4=1
 TimestampFolder4=0
 UseOutputName4=0
