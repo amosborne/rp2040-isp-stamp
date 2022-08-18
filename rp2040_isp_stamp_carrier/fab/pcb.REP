@@ -2,10 +2,8 @@
 FileName = pcb.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Solder
-      File : pcb.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : pcb.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -13,12 +11,64 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D16
-    D18
-    D19
-    D20
-    D21
-    D22
+    D13
+    D24
+    D27
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : pcb.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : pcb.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : pcb.GM
+
+
+Used DCodes :
+    D36
 *************************************************************
 
 *************************************************************
@@ -45,33 +95,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : pcb.GBO
+Generating : Bottom Solder
+      File : pcb.GBS
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : pcb.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : pcb.GBL
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -79,50 +106,21 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D13
-    D25
-    D28
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
+    D15
+    D18
+    D19
+    D20
+    D21
+    D22
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : pcb.GTL
+Generating : Bottom Overlay
+      File : pcb.GBO
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D11
-    D13
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : pcb.GM
-
-
-Used DCodes :
-    D37
 *************************************************************
 
