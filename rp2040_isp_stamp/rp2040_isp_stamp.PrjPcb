@@ -133,80 +133,105 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SUOKTMGN
 
+[Document6]
+DocumentPath=pcb\rp2040_isp_stamp_panel.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NYNDRRNR
+
 [GeneratedDocument1]
-DocumentPath=out\Design Rule Check - pcb.html
+DocumentPath=assy\Bill of Materials CSV-rp2040_isp_stamp.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=out\Design Rule Check - pcb_v2.html
+DocumentPath=out\Design Rule Check - pcb.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=fab\pcb_v2.DRR
+DocumentPath=out\Design Rule Check - pcb_v2.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=fab\pcb_v2.EXTREP
+DocumentPath=fab\pcb_v2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=fab\pcb_v2.G1
+DocumentPath=fab\pcb_v2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=fab\pcb_v2.G2
+DocumentPath=fab\pcb_v2.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=fab\pcb_v2.GBL
+DocumentPath=fab\pcb_v2.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=fab\pcb_v2.GBO
+DocumentPath=fab\pcb_v2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=fab\pcb_v2.GBP
+DocumentPath=fab\pcb_v2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=fab\pcb_v2.GBS
+DocumentPath=fab\pcb_v2.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=fab\pcb_v2.GM
+DocumentPath=fab\pcb_v2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=fab\pcb_v2.GTL
+DocumentPath=fab\pcb_v2.GM
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=fab\pcb_v2.GTO
+DocumentPath=fab\pcb_v2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=fab\pcb_v2.GTP
+DocumentPath=fab\pcb_v2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=fab\pcb_v2.GTS
+DocumentPath=fab\pcb_v2.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=fab\pcb_v2.LDP
+DocumentPath=fab\pcb_v2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=fab\pcb_v2.REP
+DocumentPath=fab\pcb_v2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=fab\pcb_v2.RUL
+DocumentPath=fab\pcb_v2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=fab\pcb_v2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=fab\pcb_v2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=assy\Pick Place for pcb_v2.csv
 DItemRevisionGUID=
 
 [Configuration1]
